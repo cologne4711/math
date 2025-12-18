@@ -1,0 +1,17 @@
+title: Math Skripte
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown
+
+# optional
+search_enabled: true
+
+plugins:
+  - jekyll-remote-theme
+
+---
+title: Grenzwerte
+nav_order: 2
+---
+
