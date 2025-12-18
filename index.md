@@ -1,9 +1,5 @@
----
-title: Mathematik Skripte
-nav_order: 1
----
 
-Willkommen zu meinen Mathe-Skripten.
+Hier finden Sie meine Skripte.
 
 - [Gym1](skripte/gym1/)
 - [Gym2](skripte/gym2/)
