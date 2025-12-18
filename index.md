@@ -1,3 +1,8 @@
+---
+title: Mathematik Skripte Pantenburg
+has_children: true
+nav_order: 1
+---
 
 Hier finden Sie meine Skripte.
 
