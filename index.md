@@ -1,5 +1,5 @@
 ---
-title: Mathematik Skripte Pantenburg
+title: Skripte
 has_children: true
 nav_order: 1
 ---
