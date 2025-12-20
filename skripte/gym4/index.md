@@ -1,8 +1,8 @@
 ---
-title: Gym3 Skripte
+title: Gym4 Skripte
 has_children: true
 nav_order: 2
 parent: Skripte
 ---
 
-Skripte Gym 3
+Skripte Gym 4
